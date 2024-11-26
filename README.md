@@ -1,8 +1,10 @@
-# React + Vite
+Project Description:This project is a modern web application built using ReactJS and the Gemini API to deliver seamless and real-time cryptocurrency trading and portfolio management functionality. The application features a responsive design, ensuring a smooth and user-friendly experience across all devices, including desktops, tablets, and smartphones.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features:
+Real-Time Data Integration: Leverages the Gemini API to fetch and display live market data, trading pairs, and account details.
 
-Currently, two official plugins are available:
+Responsive Design: Developed using modern web standards, the app adapts effortlessly to different screen sizes for optimal usability.
+Component-Based Architecture: ReactJS powers the application for reusable, maintainable, and scalable components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Interactive User Interface: Provides users with a dynamic experience, including charts, trade execution, and portfolio visualization.
+This project is designed to showcase technical expertise in building responsive, API-driven web applications using ReactJS.
